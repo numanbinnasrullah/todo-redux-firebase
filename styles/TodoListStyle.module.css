@@ -1,0 +1,33 @@
+/* @media screen and (max-width: 900px) {
+    .tablebody{
+        width: 100%;
+    }
+    .table1{
+    display: flex;
+    width: 100% !important;
+  }
+  .tableHeadRow{
+    display: flex;
+    flex-direction: column;
+  }
+  .tableColumn{
+    display: flex;
+    flex-direction: column;
+}
+.th{
+    width: 130px;
+    min-height: 100px;
+    padding: 27% !important;
+}
+.td{
+    min-height: 100px;
+    padding-top: 32px !important;
+}
+.td1{
+    min-height: 100px;
+}
+.bar{
+    width: 100% !important;
+}
+  }
+   */
