@@ -100,7 +100,7 @@ export const todoSlice = createSlice({
           state.stateTriger = true
             state.todos = state.todos.map( (item)=> item.id === action.payload.id ? action.payload : item )
         },
-        setFilter: (state, action) =>{
+        setFilter: (state, action) =>{ 
             state.filter = action.payload
         }
     },
